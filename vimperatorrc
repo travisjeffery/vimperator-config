@@ -1,0 +1,21 @@
+set complete=sbfh
+set defsearch=google
+set guioptions-=mT
+set wildoptions=auto
+" set preload
+set showmode
+javascript liberator.beep = function() { return false; }
+set showstatuslinks=1
+set titlestring=Firefox
+set wildmode=list:full
+set editor=vim
+colorscheme simple
+
+map <Right> gt
+map <Left> gT
+
+map <C-r> :restart<cr>
+
+set defsearch=google
+set suggestengines=google
+set complete=Ssl
