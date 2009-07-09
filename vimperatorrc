@@ -8,7 +8,7 @@ javascript liberator.beep = function() { return false; }
 set showstatuslinks=1
 set titlestring=Firefox
 set wildmode=list:full
-set editor=vim
+set editor='bash -lc "mvim -f \$*" mvim '
 colorscheme simple
 
 map <Right> gt
