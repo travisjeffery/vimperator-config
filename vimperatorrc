@@ -21,4 +21,5 @@ set suggestengines=google
 set complete=Ssl
 
 nmap ,w :tabopen wiki 
+nmap ,d :delicious 
 
