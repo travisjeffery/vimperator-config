@@ -1,6 +1,6 @@
 set complete=sbfh
 set defsearch=google
-set guioptions+=mT
+set guioptions-=mT
 set wildoptions=auto
 " set preload
 set showmode
