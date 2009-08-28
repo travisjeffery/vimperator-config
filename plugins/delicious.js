@@ -28,4 +28,3 @@ commands.addUserCommand(['delicious'], "Save page as a bookmark on Delicious",
     });
 
 
-
