@@ -20,6 +20,6 @@ set defsearch=google
 set suggestengines=google
 set complete=Ssl
 
-nmap ,w :tabopen wiki 
+nmap ,w :tabopen wi 
 nmap ,d :delicious 
 
