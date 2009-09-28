@@ -1,5 +1,8 @@
 " ==Vimperator_Color_Scheme==
 " name: Simple
+" modifications: Travis Jeffery <t.jeffery@utoronto.ca>
+" - changed font to DejaVu Sans Mono
+" - changed colors to be brighter and more excitings
 " ==Simple_Color_Scheme==
 
 highlight Bell display: none;
