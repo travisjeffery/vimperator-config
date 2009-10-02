@@ -18,7 +18,7 @@ map <C-r> :restart<cr>
 
 set defsearch=google
 set suggestengines=google
-set complete=Ssl
+set complete=lbsS
 
 nmap ,w :tabopen wi 
 nmap ,d :delicious 
