@@ -6,7 +6,7 @@ set wildoptions=auto
 set showmode
 javascript liberator.beep = function() { return false; }
 set showstatuslinks=1
-set titlestring=Firefox
+set titlestring=null
 set wildmode=list:full
 set editor='bash -lc "mvim -f \$*" mvim '
 colorscheme simple
@@ -20,7 +20,8 @@ set defsearch=google
 set suggestengines=google
 set complete=lbsS
 
-nmap ,w :tabopen wi 
+nmap ,w :tabopen wi
 nmap ,d :delicious 
+nmap ,g :set guioptions+=
 
 set visualbell
